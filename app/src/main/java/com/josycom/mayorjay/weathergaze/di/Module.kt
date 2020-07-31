@@ -1,6 +1,6 @@
 package com.josycom.mayorjay.weathergaze.di
 
-import com.josycom.mayorjay.weathergaze.data.remote.Api
+import com.josycom.mayorjay.weathergaze.data.source.remote.Api
 import com.josycom.mayorjay.weathergaze.utils.AppConstants
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
